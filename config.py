@@ -1,0 +1,2 @@
+GEMINI_API_KEY = "AIzaSyBFpJ1t0a45ZRpLrksRQ0-r__5JVT4b-mA"
+
